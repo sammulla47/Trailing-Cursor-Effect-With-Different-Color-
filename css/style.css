@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+:root {
+  --our-cyan-light: #455A64;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.bg-white {
+  background: #f7f7f7;
+  background-size: cover;
+}
+
+.bg-black {
+  background: #000;
+  background-size: cover;
+}
+
+/* className for the trail elements */
+.trail {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  border-radius: 100%;
+}
+
+* {
+  cursor: none;
+}
+
+.bg-color1 {
+  background: #93A3EE !important;
+}
+
+.bg-color2 {
+  background: #FE7BA6 !important;
+}
+
+.bg-color3 {
+  background: #FC1E25 !important;
+}
+
+.bg-color4 {
+  background: #3EA3F0 !important;
+}
+
+.bg-color5 {
+  background: #ED7959 !important;
+}
+
+.bg-color6 {
+  background: #E7242C !important;
+}
+
+.bg-color7 {
+  background: #FEFF00 !important;
+}
+
+.bg-color8 {
+  background: #E7242C !important;
+}
+
+.bg-color9 {
+  background: black !important;
+}
+
+.bg-color10 {
+  background: whitesmoke !important;
+}
