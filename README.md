@@ -7,3 +7,5 @@ The code starts by creating an array of Dot objects and a mouse object to track 
 The draw() function is called repeatedly using requestAnimationFrame(), and the position of the Dot objects is updated based on the movement of the mouse. The nextDot variable is used to determine the next Dot object in the array, and the x and y coordinates of the Dot object are updated based on the difference between its position and the position of the next Dot object. The speed of the movement can be adjusted by changing the value of .6.
 
 The animate() function is called to start the animation, and the mouse position is updated using a mousemove event listener. The effect can be customized by changing the number of particles in the trail, the speed of the movement, and the color of the particles using CSS classes.
+
+<a href="https://sammulla47.github.io/Trailing-Cursor-Effect-With-Different-Color-/">Preview</a>
